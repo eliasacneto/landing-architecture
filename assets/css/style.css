@@ -129,9 +129,8 @@ form {
   padding: 20px 30px;
   width: 500px;
   border-radius: 10px;
-  font-size: 20px;
+  font-size: 18px;
   margin-bottom: 40px;
-  font-weight: 700;
   border: none;
 }
 
@@ -144,8 +143,8 @@ form {
   border: none;
   border-radius: 10px;
   color: #FFF;
-  width: 300px;
-  font-size: 25px;
+  width: 250px;
+  font-size: 20px;
   font-weight: 700;
   font-family: 'Raleway', sans-serif;
   padding: 20px 30px;
